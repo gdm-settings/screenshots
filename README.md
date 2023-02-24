@@ -1,14 +1,5 @@
 # Screenshots
 
-## Latest Development Version
-
-<picture>
-  <source srcset="dark/bleeding-edge.png" media="(prefers-color-scheme: dark)">
-  <img src="light/bleeding-edge.png">
-</picture>
-
-## Stable
-
 <picture>
   <source srcset="dark/screenshot-1.png" media="(prefers-color-scheme: dark)">
   <img src="light/screenshot-1.png">
