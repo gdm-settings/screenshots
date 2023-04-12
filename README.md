@@ -1,13 +1,13 @@
 # Screenshots
 
 <picture>
-  <source srcset="dark/menu.png" media="(prefers-color-scheme: dark)">
-  <img src="light/menu.png">
+  <source srcset="dark/appearance.png" media="(prefers-color-scheme: dark)">
+  <img src="light/appearance.png">
 </picture>
 
 <picture>
-  <source srcset="dark/appearance.png" media="(prefers-color-scheme: dark)">
-  <img src="light/appearance.png">
+  <source srcset="dark/menu.png" media="(prefers-color-scheme: dark)">
+  <img src="light/menu.png">
 </picture>
 
 <picture>

@@ -1,7 +1,7 @@
 # Screenshots (Dark)
 
-![Menu](menu.png)
 ![Appearance panel](appearance.png)
+![Menu](menu.png)
 ![Fonts panel](fonts.png)
 ![Top bar panel](top-bar.png)
 ![sound panel](sound.png)
