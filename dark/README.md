@@ -1,5 +1,6 @@
 # Screenshots (Dark)
 
+![Menu](menu.png)
 ![Appearance panel](appearance.png)
 ![Fonts panel](fonts.png)
 ![Top bar panel](top-bar.png)
