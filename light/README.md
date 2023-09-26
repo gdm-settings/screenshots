@@ -1,5 +1,8 @@
 # Screenshots (Light)
 
+![Default Wide Window](default.png)
+![Sidebar Tall Window](tall-sidebar.png)
+![Content Tall Window](tall-content.png)
 ![Appearance panel](appearance.png)
 ![Menu](menu.png)
 ![Fonts panel](fonts.png)
