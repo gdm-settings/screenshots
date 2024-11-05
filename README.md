@@ -7,10 +7,10 @@
 
 <picture>
   <source srcset="dark/tall-sidebar.png" media="(prefers-color-scheme: dark)">
-  <img src="light/tall-sidebar.png">
+  <img src="light/tall-sidebar.png" width="49%">
 </picture>
 
 <picture>
   <source srcset="dark/tall-content.png" media="(prefers-color-scheme: dark)">
-  <img src="light/tall-content.png">
+  <img src="light/tall-content.png" width="49%">
 </picture>
